@@ -415,6 +415,8 @@ Prepared UI elements, screens, components or entirely app concepts, packed in a 
 
 ### More cool UI Kits
 
+* [Based - Social Feed UI Kit](https://getstream.io/based-feed-ui-kit-sketch/) — Kit includes interfaces for social feeds, news feeds, photo streams and more. Also provides complete style guide. 100% free and Sketch ready.![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
+
 * [Uplabs App UI Design](https://dribbble.com/shots/5350462-Uplabs-Redesign) — Uplabs Homepage UI Redesign ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg)  
 
 * [Vera Block Free UI Kit](http://vera.kkuistore.com/) — Each screen and component is made carefully and easily customized for any project. This product will speed up your work in mobile design. ![Web](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/web.svg) ![sketch.svg](https://github.com/LisaDziuba/Awesome-Design-Tools/blob/master/Media/sketch.svg) 
